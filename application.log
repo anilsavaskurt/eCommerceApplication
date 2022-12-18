@@ -1,0 +1,33 @@
+2022-12-19 00:49:21.916  INFO   --- [main] c.e.demo.controllers.UserController      : Username assigned as "test"
+2022-12-19 00:49:21.918  INFO   --- [main] c.e.demo.controllers.UserController      : "test" created successfully
+2022-12-19 00:49:21.956 ERROR   --- [main] c.e.demo.controllers.ItemController      : No item found. Name: invalid name
+2022-12-19 00:49:21.962  INFO   --- [main] c.e.demo.controllers.CartController      : Items removed from the cart successfully. Username: fymo
+2022-12-19 00:49:21.963  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:49:21.964  INFO   --- [main] c.e.demo.controllers.CartController      : Items added to the cart successfully. Username: fymo
+2022-12-19 00:49:21.964  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:49:21.965 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be removed. Username: invalidUser
+2022-12-19 00:49:21.965 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be added. Username: invalidUser
+2022-12-19 00:49:21.987  INFO   --- [main] c.e.demo.controllers.OrderController     : Order saved successfully. Username: fymo
+2022-12-19 00:49:21.988 ERROR   --- [main] c.e.demo.controllers.OrderController     : Order could not be saved. Username: invalid username
+2022-12-19 00:50:52.167  INFO   --- [main] c.e.demo.controllers.UserController      : Username assigned as "test"
+2022-12-19 00:50:52.170  INFO   --- [main] c.e.demo.controllers.UserController      : "test" created successfully
+2022-12-19 00:50:52.205 ERROR   --- [main] c.e.demo.controllers.ItemController      : No item found. Name: invalid name
+2022-12-19 00:50:52.211  INFO   --- [main] c.e.demo.controllers.CartController      : Items removed from the cart successfully. Username: fymo
+2022-12-19 00:50:52.212  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:50:52.213  INFO   --- [main] c.e.demo.controllers.CartController      : Items added to the cart successfully. Username: fymo
+2022-12-19 00:50:52.213  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:50:52.214 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be removed. Username: invalidUser
+2022-12-19 00:50:52.214 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be added. Username: invalidUser
+2022-12-19 00:50:52.236  INFO   --- [main] c.e.demo.controllers.OrderController     : Order saved successfully. Username: fymo
+2022-12-19 00:50:52.237 ERROR   --- [main] c.e.demo.controllers.OrderController     : Order could not be saved. Username: invalid username
+2022-12-19 00:53:31.917  INFO   --- [main] c.e.demo.controllers.UserController      : Username assigned as "test"
+2022-12-19 00:53:31.919  INFO   --- [main] c.e.demo.controllers.UserController      : "test" created successfully
+2022-12-19 00:53:31.954 ERROR   --- [main] c.e.demo.controllers.ItemController      : No item found. Name: invalid name
+2022-12-19 00:53:31.960  INFO   --- [main] c.e.demo.controllers.CartController      : Items removed from the cart successfully. Username: fymo
+2022-12-19 00:53:31.960  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:53:31.962  INFO   --- [main] c.e.demo.controllers.CartController      : Items added to the cart successfully. Username: fymo
+2022-12-19 00:53:31.962  INFO   --- [main] c.e.demo.controllers.CartController      : Card saved successfully. Username: fymo
+2022-12-19 00:53:31.963 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be removed. Username: invalidUser
+2022-12-19 00:53:31.963 ERROR   --- [main] c.e.demo.controllers.CartController      : Cart could not be added. Username: invalidUser
+2022-12-19 00:53:31.986  INFO   --- [main] c.e.demo.controllers.OrderController     : Order saved successfully. Username: fymo
+2022-12-19 00:53:31.987 ERROR   --- [main] c.e.demo.controllers.OrderController     : Order could not be saved. Username: invalid username
